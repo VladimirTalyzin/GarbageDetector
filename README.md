@@ -38,13 +38,14 @@ https://0v.ru/garbage/trained_model.zip
 
 # Установка на VPS
 
+Пример работы сайта, размещённого на VPS: https://0v.ru/garbage/
+![Демонстрация работы сайта](https://0v.ru/garbage/site-demo.gif)
+
 Необходимо установить на VPS содержимое папки "VPS". 
 Туда же скачать файл модели: https://0v.ru/garbage/trained_model_cpu.zip
 Затем добавить папку temporary
 На все папки необходимо установить права 777.
 
-
-Пример работы сайта, размещённого на VPS: https://0v.ru/garbage/
 Работает на любых платформах. Desktop, Android, iOS
 
 ![Запуск сайта](https://0v.ru/garbage/screen-start.png)
