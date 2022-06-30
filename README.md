@@ -27,14 +27,14 @@ https://0v.ru/garbage/trained_model.zip
 
 Зависимости для тренировки моделей:
 
-pip install torch-gpu
-pip install torchvision
-pip install opencv-python
-pip install numpy
-pip install scikit-learn
-pip install Pillow
-pip install pandas
-pip install tqdm
+* pip install torch-gpu
+* pip install torchvision
+* pip install opencv-python
+* pip install numpy
+* pip install scikit-learn
+* pip install Pillow
+* pip install pandas
+* pip install tqdm
 
 # Установка на VPS
 
@@ -53,8 +53,8 @@ pip install tqdm
 
 Зависимости для запуска на VPS:
 
-pip install torchvision
-pip install opencv-python
-pip install numpy
-pip install Pillow
-apt-get install libgl1  
+* pip install torchvision
+* pip install opencv-python
+* pip install numpy
+* pip install Pillow
+* apt-get install libgl1  
