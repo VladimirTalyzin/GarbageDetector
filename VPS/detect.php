@@ -1,6 +1,6 @@
 <?php
 
-const SCRIPT_PATH = "/var/www/morfo/data/www/0v.ru/garbage/";
+const SCRIPT_PATH = __DIR__;
 if (!isset($_POST["photo"]))
 {
 	die;
